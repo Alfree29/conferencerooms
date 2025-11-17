@@ -1,5 +1,5 @@
 // Основной файл приложения
-const API_BASE_URL = 'http://localhost:3000/api';
+const API_BASE_URL = 'https://your-backend-app.onrender.com/api';
 
 // Глобальные переменные
 let currentPage = 1;
